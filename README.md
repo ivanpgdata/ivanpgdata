@@ -1,5 +1,7 @@
 ### Hi there 👋
+This repository will have a very fancy and useful information so you can get to know me a little bit. So far I am collecting some ideas for this file.
 
+Thanks for being patient!
 <!--
 **pintogriloivan/pintogriloivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
