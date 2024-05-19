@@ -11,7 +11,7 @@ Welcome to my GitHub profile! You will find here not only some projects that I h
     <div style="flex: 3;">
 
 
-🌎 With Cornell Certificate and a Masters degree in tourism management,I have international experience in this industry in managerial positions. Since the beginning I had a true passion for data, and after some years understanding how businesses work and how to operate from entry to management levels,I'm on an exciting learning journey that I want to share with you.
+🌎 With a Cornell Certificate in Revenue Management and a Masters degree in tourism management,I have international experience in this industry in managerial positions. Since the beginning I had a true passion for data, and after some years understanding how businesses work and how to operate from entry to management levels,I'm on an exciting learning journey that I want to share with you.
 
 📊 After completing a bootcamp in Data Science and Machine Learning, I'm ready to tackle new challenges and dive into the world of data.
 
