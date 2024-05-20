@@ -46,9 +46,7 @@ This project is being made in order to sharpen some skills and practice some new
 * XGBoost Forecasting
 * ARIMA Forecasting
 
-#### 📷 Image Recognition  _*(Next Project)*_
-
-This project will have a ML algorith that will identify and classify objects, people, or features within images. It will use techniques such as convolutional neural networks (CNNs) to achieve high accuracy in recognizing and interpreting visual data
+#### 📷 Object Recognition  _*(Next Project)*_
 
 #### 🛠 Exercises
 
