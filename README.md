@@ -1,3 +1,5 @@
+# ⚠️ GitHub Profile under construction ⚠️
+
 # Hello there!👋
 
 Welcome to my GitHub profile! You will find here not only some projects that I have done but my contact, just in case you would like to know a little bit more about me and send me an email or a DM on LinkedIn!
@@ -47,6 +49,10 @@ This project is being made in order to sharpen some skills and practice some new
 #### 📷 Image Recognition  _*(Next Project)*_
 
 This project will have a ML algorith that will identify and classify objects, people, or features within images. It will use techniques such as convolutional neural networks (CNNs) to achieve high accuracy in recognizing and interpreting visual data
+
+#### 🛠 Exercises
+
+This repository will have numerous exercises that I do just for fun. It will mostly be interview questions that I have found on github or sometimes some exercises that I will do if I want to see if I can do something either using something that I have no clue about or a new tool that got my attention while I was reading a random post on LinkedIn or a tech newsletter.
 
 
 ## 📫 _Where can you find me?_
