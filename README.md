@@ -13,7 +13,7 @@ Welcome to my GitHub profile! You will find here not only some projects that I h
     <div style="flex: 3;">
 
 
-🌎 With a Cornell Certificate in Revenue Management and a Masters degree in tourism management,I have international experience in this industry in managerial positions. Since the beginning I had a true passion for data, and after some years understanding how businesses work and how to operate from entry to management levels,I'm on an exciting learning journey that I want to share with you.
+🌎 With international experience from entry level to managerial positions in the tourism industry I found out during my career a true passion for data, and after some years understanding how a business work and how important data and the quality of data is for it, I'm on an exciting learning journey that I want to share with you.
 
 📊 After completing a bootcamp in Data Science and Machine Learning, I'm ready to tackle new challenges and dive into the world of data.
 
@@ -62,8 +62,8 @@ This repository will have numerous exercises that I do just for fun. It will mos
 
 Easy! You have right here my links: 
 
-Linkedin : [ivanpgdata](www.linkedin.com/in/ivanpgdata)
+Add me on Linkedin : [ivanpgdata](www.linkedin.com/in/ivanpgdata)
 
-Email : ivanpgdata@gmail.com
+Send me an email : ivanpgdata@gmail.com
 
 🇫🇷 🇪🇸 🇺🇸
