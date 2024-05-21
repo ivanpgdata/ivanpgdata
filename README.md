@@ -35,11 +35,11 @@ Welcome to my GitHub profile! You will find here not only some projects that I h
 
 ## 🌱 Projects
 
-#### 🍷 WineMeApp Wine Recommendator _*([Public](https://github.com/ivanpgdata/WineMeApp/tree/main))*_
+#### 🍷 WINEMEAPP WINE RECOMMENDATOR _*([Public](https://github.com/ivanpgdata/WineMeApp/tree/main))*_
 A **recommendation model** that takes the tasting notes from a wine (after checking if it is in our database) and shows you the most similar wines from the dataset. It is displayed in streamlit and uses github as a host.
 
 
-#### 🏬 Hotel Project _*(Working on it 👷🏻 )*_
+#### 🏬 HOTEL PROJECT _*(Working on it 👷🏻 )*_
 This project is being made in order to sharpen some skills and practice some new ones, therefore it covers:
 * EDA
 * K-Means Clustering
@@ -48,11 +48,11 @@ This project is being made in order to sharpen some skills and practice some new
 * ARIMA Forecasting
 
 
-#### 📷 Object Recognition  _*(Next Project)*_
+#### 📷 OBJECT RECOGNITION _*(Next Project)*_
 
 
 
-#### 🛠 Exercises ([Public](https://github.com/ivanpgdata/Exercises))
+#### 🛠 EXERCISES ([Public](https://github.com/ivanpgdata/Exercises))
 
 This repository will have numerous exercises that I do just for fun. It will mostly be interview questions that I have found on github or sometimes some exercises that I will do if I want to see if I can do something either using something that I have no clue about or a new tool that got my attention while I was reading a random post on LinkedIn or a tech newsletter.
 
