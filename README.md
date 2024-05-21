@@ -48,7 +48,7 @@ This project is being made in order to sharpen some skills and practice some new
 * ARIMA Forecasting
 
 
-#### 📷 OBJECT RECOGNITION _*(Next Project)*_
+#### 📷 IMAGE RELATED PROJECT  _*(Next Project)*_
 
 
 
