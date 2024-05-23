@@ -62,7 +62,7 @@ This repository will have numerous exercises that I do just for fun. It will mos
 
 Easy! You have right here my links: 
 
-Add me on Linkedin : [ivanpgdata](www.linkedin.com/in/ivanpgdata)
+Add me on Linkedin : [ivanpgdata](https://www.linkedin.com/in/ivanpgdata)
 
 Send me an email : ivanpgdata@gmail.com
 
