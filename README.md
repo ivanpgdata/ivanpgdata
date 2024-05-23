@@ -29,7 +29,6 @@ Welcome to my GitHub profile! You will find here not only some projects that I h
 
 ✈️  I have full geographic availability, both nationally and internationally.
 
-    </div>
 </div>
 
 
