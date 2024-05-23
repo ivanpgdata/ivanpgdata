@@ -64,6 +64,6 @@ Easy! You have right here my links:
 
 Add me on Linkedin : [ivanpgdata](https://www.linkedin.com/in/ivanpgdata)
 
-Send me an email : ivanpgdata@gmail.com
+Send me an email : pintogriloivan@gmail.com
 
 🇫🇷 🇪🇸 🇺🇸
