@@ -17,7 +17,7 @@ Welcome to my GitHub profile! You will find here not only some projects that I h
 
 📊 After completing a bootcamp in Data Science and Machine Learning, I'm ready to tackle new challenges and dive into the world of data.
 
-🗣️ Fluent in English, Spanish, and French, I love working in multicultural environments. Also learning some russian in my spare time just for fun.
+🗣️ Fluent in English, Spanish, and French, I love working in multicultural environments. I'm also learning some russian in my spare time just for fun.
 
 💡 Adaptable, curious, and always eager to learn something new. Let's transform data into intelligent decisions together!
 
