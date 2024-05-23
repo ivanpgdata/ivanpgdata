@@ -60,10 +60,10 @@ This repository will have numerous exercises that I do just for fun. It will mos
 
 ## 📫 _Where can you find me?_
 
-Easy! You have right here my links: 
+It is as easy as: 
 
-Add me on Linkedin : [ivanpgdata](https://www.linkedin.com/in/ivanpgdata)
+Adding me on [Linkedin](https://www.linkedin.com/in/ivanpgdata)
 
-Send me an email : pintogriloivan@gmail.com
+Sending me an [email](pintogriloivan@gmail.com)
 
 🇫🇷 🇪🇸 🇺🇸
