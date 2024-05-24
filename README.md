@@ -36,7 +36,7 @@ Welcome to my GitHub profile! You will find here not only some projects that I h
 ## 🌱 Projects
 
 #### 🍷 WINEMEAPP WINE RECOMMENDATOR _*([Public](https://github.com/ivanpgdata/WineMeApp/tree/main))*_
-A **recommendation model** that takes the tasting notes from a wine (after checking if it is in our database) and shows you the most similar wines from the dataset. It is displayed in streamlit and uses github as a host.
+A **recommendation model** that takes the tasting notes from a wine (after checking if it is in our database) and shows you the most similar wines from the dataset. It is displayed on streamlit and uses github as a host, all coded in python.
 
 
 #### 🏬 HOTEL PROJECT _*(Working on it 👷🏻 )*_
