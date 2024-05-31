@@ -48,7 +48,7 @@ This project is being made in order to sharpen some skills and practice some new
 * ARIMA Forecasting
 
 #### 📷 IMAGE RELATED PROJECT  _*([Public](https://github.com/ivanpgdata/Image_Related))*_    
-
+In this repository you will find some image related projects. Maybe I read something about a library and I want to try how that works, or maybe an idea came to my mind and I am going to go for it just for fun 😄
 
 
 #### 🛠 EXERCISES ([Public](https://github.com/ivanpgdata/Exercises))
