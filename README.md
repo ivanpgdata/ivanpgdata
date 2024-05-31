@@ -47,8 +47,7 @@ This project is being made in order to sharpen some skills and practice some new
 * XGBoost Forecasting
 * ARIMA Forecasting
 
-
-#### 📷 IMAGE RELATED PROJECT  _*(Next Project)*_
+#### 📷 IMAGE RELATED PROJECT  _*([Public](https://github.com/ivanpgdata/Image_Related))*_    
 
 
 
