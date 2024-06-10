@@ -50,6 +50,9 @@ This project is being made in order to sharpen some skills and practice some new
 #### 📷 IMAGE RELATED PROJECT  _*([Public](https://github.com/ivanpgdata/Image_Related))*_    
 In this repository you will find some image related projects. Maybe I read something about a library and I want to try how that works, or maybe an idea came to my mind and I am going to go for it just for fun 😄
 
+### 🎵 SOUND RELATED PROJECT _*(Working on it 👷🏻 )*_
+This project will have a sound classifier trained with IRMAS. The objective will be to create an algorythm that, depending on the audio you send him, it will let you know which instrument is being played from the training dataset 🎹 🎷 🎺 🎸 🎻 
+
 
 #### 🛠 EXERCISES ([Public](https://github.com/ivanpgdata/Exercises))
 
