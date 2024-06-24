@@ -39,11 +39,13 @@ Welcome to my GitHub profile! You will find here not only some projects that I h
 A **recommendation model** that takes the tasting notes from a wine (after checking if it is in our database) and shows you the most similar wines from the dataset. It is displayed on streamlit and uses github as a host, all coded in python.
 
 
-#### 🏬 HOTEL PROJECT _*(Working on it 👷🏻 )*_
+#### 🏬 HOTEL PROJECT _*([Public](https://github.com/ivanpgdata/Hotel_Project))*_
 This project is being made in order to sharpen some skills and practice some new ones, therefore it covers:
-* EDA
+* EDA    
 * K-Means Clustering
+* PCA
 * XGBoost Forecasting
+* Augmented Dickey-Fuller Test (ADF)
 
 #### 📷 IMAGE RELATED PROJECT  _*([Public](https://github.com/ivanpgdata/Image_Related))*_    
 In this repository you will find some image related projects. Maybe I read something about a library and I want to try how that works, or maybe an idea came to my mind and I am going to go for it just for fun 😄
