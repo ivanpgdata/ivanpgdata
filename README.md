@@ -43,9 +43,7 @@ A **recommendation model** that takes the tasting notes from a wine (after check
 This project is being made in order to sharpen some skills and practice some new ones, therefore it covers:
 * EDA
 * K-Means Clustering
-* PCA
 * XGBoost Forecasting
-* ARIMA Forecasting
 
 #### 📷 IMAGE RELATED PROJECT  _*([Public](https://github.com/ivanpgdata/Image_Related))*_    
 In this repository you will find some image related projects. Maybe I read something about a library and I want to try how that works, or maybe an idea came to my mind and I am going to go for it just for fun 😄
