@@ -1,5 +1,3 @@
-# ⚠️ GitHub Profile under construction ⚠️
-
 # Hello there!👋
 
 Welcome to my GitHub profile! You will find here not only some projects that I have done but my contact, just in case you would like to know a little bit more about me and send me an email or a DM on LinkedIn!
