@@ -58,9 +58,7 @@ This repository will have numerous exercises that I do just for fun. It will mos
 
 #### 🐙 Exploring GIT with GitKraken 🐙 ([Public](https://github.com/ivanpgdata/Gitkraken_test))
 
-In this project I have gone through mostly all the daily tasks that a **Data Scientist** do when interacting with GIT, such as:
-
-🌀 Giving access to another developer, cloning, branches, tagging, requests and releases. All that with the help of @manucabello who's has been years working with GIT and using GitKraken
+In this project I have gone through mostly all the daily tasks that a **Data Scientist** do when interacting with GIT, giving access to another developer, cloning, branches, tagging, requests and releases. All that with the help of @manucabello who's has been years working with GIT and using GitKraken
 
 
 ⚒ Use of Releases
