@@ -56,7 +56,7 @@ This project will have a sound classifier trained with IRMAS. The objective will
 
 This repository will have numerous exercises that I do just for fun. It will mostly be interview questions that I have found on github or sometimes some exercises that I will do if I want to see if I can do something either using something that I have no clue about or a new tool that got my attention while I was reading a random post on LinkedIn or a tech newsletter.
 
-#### 🐙 Exploring GIT with GitKraken 🐙 ([Public](https://github.com/ivanpgdata/Gitkraken_test))
+#### 🐙 MASTERING GIT WITH GITKRAKEN 🐙 ([Public](https://github.com/ivanpgdata/Gitkraken_test))
 
 In this project I have gone through mostly all the daily tasks that a **Data Scientist** do when interacting with GIT, giving access to another developer, cloning, branches, tagging, requests and releases. All that with the help of @manucabello who's has been years working with GIT and using GitKraken
 
