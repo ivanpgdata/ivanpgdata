@@ -61,7 +61,7 @@ This repository will have numerous exercises that I do just for fun. It will mos
 
 In this project I have gone through mostly all the daily tasks that a **Data Scientist** do when interacting with GIT, giving access to another developer, cloning, branches, tagging, requests and releases. All that with the help of @manucabello who's has been years working with GIT and using GitKraken
 
-#### NEXT PROJECT _*(Working on it 👷🏻 )*_
+#### ⁉️ NEXT PROJECT _*(Working on it 👷🏻 )*_
 
 Thinking of the next project. This next project will be something that got my attention some time ago even before starting to code. As I am not sure how to aproach the project, I rather not giving too much information. Stay tuned to know about it!
 
