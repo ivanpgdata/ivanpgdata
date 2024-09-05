@@ -48,8 +48,9 @@ This project is being made in order to sharpen some skills and practice some new
 #### 📷 IMAGE RELATED PROJECT  _*([Public](https://github.com/ivanpgdata/Image_Related))*_    
 In this repository you will find some image related projects. Maybe I read something about a library and I want to try how that works, or maybe an idea came to my mind and I am going to go for it just for fun 😄
 
-#### 🎵 SOUND RELATED PROJECT _*(Working on it 👷🏻 )*_
-This project will have a sound classifier trained with IRMAS. The objective will be to create an algorythm that, depending on the audio you send him, it will let you know which instrument is being played from the training dataset 🎹 🎷 🎺 🎸 🎻 
+#### 🎵 AUDIO CLASSIFIER  _*([Public](https://github.com/ivanpgdata/AUDIO_CLASSIFIER))*_    
+This project will have an audio classifier trained with IRMAS. The objective will be to create an algorythm that, depending on the audio you send him, it will let you know which instrument is being played from the training dataset 🎹 🎷 🎺 🎸 🎻 
+I have created 2 ML models one with CNN and other with Dense Layers, with a particular result.
 
 
 #### 🛠 EXERCISES ([Public](https://github.com/ivanpgdata/Exercises))
@@ -59,6 +60,10 @@ This repository will have numerous exercises that I do just for fun. It will mos
 #### 🐙 MASTERING GIT WITH GITKRAKEN 🐙 ([Public](https://github.com/ivanpgdata/Gitkraken_test))
 
 In this project I have gone through mostly all the daily tasks that a **Data Scientist** do when interacting with GIT, giving access to another developer, cloning, branches, tagging, requests and releases. All that with the help of @manucabello who's has been years working with GIT and using GitKraken
+
+#### NEXT PROJECT _*(Working on it 👷🏻 )*_
+
+Thinking of the next project. This next project will be something that got my attention some time ago even before starting to code. As I am not sure how to aproach the project, I rather not giving too much information. Stay tuned to know about it!
 
 
 ## 📫 _Where can you find me?_
