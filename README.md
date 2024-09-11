@@ -58,7 +58,7 @@ In this project I have gone through mostly all the daily tasks that a **Data Sci
 
 #### ↕️ MQTT BROKER PROJECT ([Public](https://github.com/ivanpgdata/MQTT)) 
 
-This project implements an MQTT Publisher and Subscriber using Python and the `paho-mqtt` library, deployed with Docker utilizing the `eclipse-mosquitto:1.4.8` image as the MQTT broker. The Publisher sends messages to a specified topic, while the Subscriber listens and processes these messages. The project demonstrates effective communication between devices or applications using the MQTT protocol.
+This project implements an MQTT Publisher and Subscriber, deployed with Docker utilizing the eclipse-mosquitto image as the MQTT broker. The Publisher sends messages to a specified topic, while the Subscriber listens and processes these messages. The project demonstrates effective communication between devices or applications using the MQTT protocol.
 
 
 #### 🛠 EXERCISES ([Public](https://github.com/ivanpgdata/Exercises))
