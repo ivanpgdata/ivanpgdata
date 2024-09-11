@@ -52,19 +52,18 @@ In this repository you will find some image related projects. Maybe I read somet
 This project will have an audio classifier trained with IRMAS. The objective will be to create an algorythm that, depending on the audio you send him, it will let you know which instrument is being played from the training dataset 🎹 🎷 🎺 🎸 🎻 
 I have created 2 ML models one with CNN and other with Dense Layers, with a particular result.
 
-
-#### 🛠 EXERCISES ([Public](https://github.com/ivanpgdata/Exercises))
-
-This repository will have numerous exercises that I do just for fun. It will mostly be interview questions that I have found on github or sometimes some exercises that I will do if I want to see if I can do something either using something that I have no clue about or a new tool that got my attention while I was reading a random post on LinkedIn or a tech newsletter.
-
 #### 🐙 MASTERING GIT WITH GITKRAKEN 🐙 ([Public](https://github.com/ivanpgdata/Gitkraken_test))
 
 In this project I have gone through mostly all the daily tasks that a **Data Scientist** do when interacting with GIT, giving access to another developer, cloning, branches, tagging, requests and releases. All that with the help of @manucabello who's has been years working with GIT and using GitKraken
 
-#### ⁉️ NEXT PROJECT _*(Working on it*_ 👷🏻*)*
+#### ↕️ MQTT BROKER PROJECT ([Public](https://github.com/ivanpgdata/MQTT)) 
 
-Thinking of the next project. This next project will be about something that got my attention some time ago even before starting to code. As I am not sure how to aproach the project, I rather not giving too much information. Stay tuned to know about it!
+This project implements an MQTT Publisher and Subscriber using Python and the `paho-mqtt` library, deployed with Docker utilizing the `eclipse-mosquitto:1.4.8` image as the MQTT broker. The Publisher sends messages to a specified topic, while the Subscriber listens and processes these messages. The project demonstrates effective communication between devices or applications using the MQTT protocol.
 
+
+#### 🛠 EXERCISES ([Public](https://github.com/ivanpgdata/Exercises))
+
+This repository will have numerous exercises that I do just for fun. It will mostly be interview questions that I have found on github or sometimes some exercises that I will do if I want to see if I can do something either using something that I have no clue about or a new tool that got my attention while I was reading a random post on LinkedIn or a tech newsletter.
 
 ## 📫 _Where can you find me?_
 
