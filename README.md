@@ -48,6 +48,9 @@ This project is being made in order to sharpen some skills and practice some new
 #### 📷 IMAGE RELATED PROJECT  _*([Public](https://github.com/ivanpgdata/Image_Related))*_    
 In this repository you will find some image related projects. Maybe I read something about a library and I want to try how that works, or maybe an idea came to my mind and I am going to go for it just for fun 😄
 
+#### 🦋 BUTTERFLY CLASSIFIER 🦋 _*([Public](https://github.com/ivanpgdata/BUTTERFLY_CLASSIFIER))*_ 
+A CNN where we have a classification model in order to see if there is a butterfly or not in the picture we give it! 🦋 or ❌ 
+
 #### 🎵 AUDIO CLASSIFIER  _*([Public](https://github.com/ivanpgdata/AUDIO_CLASSIFIER))*_    
 This project will have an audio classifier trained with IRMAS. The objective will be to create an algorythm that, depending on the audio you send him, it will let you know which instrument is being played from the training dataset 🎹 🎷 🎺 🎸 🎻 
 I have created 2 ML models one with CNN and other with Dense Layers, with a particular result.
